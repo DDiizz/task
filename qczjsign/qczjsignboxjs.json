@@ -1,7 +1,7 @@
 {
 "id": "DDiizz.app.sub",
 "name": "汽车之家极速版APP",
-"author": "@dd",
+"author": "@DDiizz",
 "icon": "",
 "repo": "https://github.com/DDiizz/task",
 "apps": [{
@@ -32,7 +32,7 @@
 }
 ],
 "repo": "https://github.com/DDiizz/task/blob/main/qczjsign/qczjappsign.js",
-"icons": "",
+"icons": ["https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/qczjspeed.jpg", "https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/qczjspeed.jpg"],
 "script": "https://raw.githubusercontent.com/DDiizz/task/main/qczjsign/qczjappsign.js"
 }]
 }
