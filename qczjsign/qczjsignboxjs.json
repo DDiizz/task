@@ -1,5 +1,5 @@
 {
-"id": "",
+"id": "dd.app.sub",
 "name": "汽车之家极速版APP",
 "author": "",
 "icon": "",
@@ -31,8 +31,8 @@
 "desc": "1,获取惊喜福利，2,领取福利188,3,分享视频赚金币,4,看视频领金币,5,观看福利视频"
 }
 ],
-"repo": "https://github.com/DDiizz/task/blob/main/qczjappsign.js",
+"repo": "https://github.com/DDiizz/task/blob/main/qczjsign/qczjappsign.js",
 "icons": "",
-"script": "https://raw.githubusercontent.com/DDiizz/task/main/qczjappsign.js"
+"script": "https://raw.githubusercontent.com/DDiizz/task/main/qczjsign/qczjappsign.js"
 }]
 }
